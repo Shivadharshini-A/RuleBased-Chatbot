@@ -1,4 +1,4 @@
-# DecodeLabs — Rule-Based AI Chatbot
+# Rule-Based AI Chatbot
 
 ## Project Overview
 This project implements a simple rule-based chatbot using Python. It responds to predefined user inputs using a dictionary of responses and conditional logic.
